@@ -1,0 +1,66 @@
+[
+  {
+    "sentence": "I rented a car from Hertz last weekend.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Hertz"}
+  },
+  {
+    "sentence": "We booked our vehicle through Avis for the holiday.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Avis"}
+  },
+  {
+    "sentence": "Enterprise provided excellent service during our trip.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Enterprise"}
+  },
+  {
+    "sentence": "Budget offers great car rental rates.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Budget"}
+  },
+  {
+    "sentence": "Alamo was very convenient for our rental needs.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Alamo"}
+  },
+  {
+    "sentence": "National has a wide variety of cars to rent.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "National"}
+  },
+  {
+    "sentence": "I had a good experience with Thrifty.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Thrifty"}
+  },
+  {
+    "sentence": "Fox Rent A Car is a decent option.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Fox Rent A Car"}
+  },
+  {
+    "sentence": "Payless Car Rental was cheap and easy.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Payless Car Rental"}
+  },
+  {
+    "sentence": "Sixt has luxury cars for rent.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Sixt"}
+  },
+  {
+    "sentence": "Dollar Rent A Car gave us a good deal.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Dollar Rent A Car"}
+  },
+  {
+    "sentence": "Ace Rent A Car offers budget-friendly rentals.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Ace Rent A Car"}
+  },
+  {
+    "sentence": "I prefer renting from Europcar.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Europcar"}
+  },
+  {
+    "sentence": "Advantage Rent A Car has great customer service.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Advantage Rent A Car"}
+  },
+  {
+    "sentence": "I always use Silvercar for business trips.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Silvercar"}
+  },
+  {
+    "sentence": "Renting from Green Motion was a smooth experience.",
+    "entities": {"label": "CAR_RENTAL_COMPANY", "value": "Green Motion"}
+  }
+]
